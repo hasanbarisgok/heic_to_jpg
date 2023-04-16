@@ -1,3 +1,5 @@
+```python
+
 # heic_to_img
 
 This is a Streamlit app that converts HEIC image files to JPG format.
@@ -10,7 +12,7 @@ This is a Streamlit app that converts HEIC image files to JPG format.
 
 ## Requirements
 
-- Python 3
+- Python 3 
 - streamlit
 - pillow
 - pillow_heif
@@ -18,5 +20,7 @@ This is a Streamlit app that converts HEIC image files to JPG format.
 ## Usage
 
 To run the app, execute the following command in the terminal:
+ streamlit run filepath.py
 
-## streamlit run filepath.py
+
+
