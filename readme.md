@@ -27,7 +27,7 @@ To run the app, execute the following command in the terminal:
  ![in vscode: ](https://github.com/hasanbarisgok/heic_to_jpg/blob/main/images_from_app/vscode_terminal.png)
  ![in cmd/terminal:](https://github.com/hasanbarisgok/heic_to_jpg/blob/main/images_from_app/cmd_terminal.png)
  
-If you did succes, this screen would be visible like this:
+If you would be success, this screen would be visible like this:
  ![main_page]( https://github.com/hasanbarisgok/heic_to_jpg/blob/main/images_from_app/main_page.png)
 
 2- Select a folder, after select a file/files. 
