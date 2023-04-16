@@ -18,7 +18,7 @@ This is a Streamlit app that converts HEIC image files to JPG format.
 - pillow
 - pillow_heif
 
-## Usage
+## Usage Step Step:
 
 To run the app, execute the following command in the terminal:
 
@@ -44,24 +44,5 @@ If you would be success, this screen should be visible like this:
 
 5- After 4. step, your files will be converted as .jpg type in your documents/converted_images. 
 ![all jobs are done](https://github.com/hasanbarisgok/heic_to_jpg/blob/main/images_from_app/images.png)
-
-
-
-
-
-
-
- 
- 
-
- 
- 
- 
-
-
-## Usage Step Step:
-
-
-
 
 
